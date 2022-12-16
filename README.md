@@ -4,7 +4,7 @@ Foundations > Low-level programming & Algorithm > Data structures and Algorithms
 ---
 
 ### Project authors
-Alexandre Gautier
+Keziah Ongangi and Mary Triza
 
 ### Assignment dates
 07-20-2020 to 07-25-2020
@@ -534,4 +534,4 @@ File(s): [`135-O`](./135-O)
 ---
 
 ## Student
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)
+* **Keziah Ongangi** - [Keziah7](github.com/Keziah7)

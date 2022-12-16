@@ -6,9 +6,6 @@ Foundations > Low-level programming & Algorithm > Data structures and Algorithms
 ### Project authors
 Keziah Ongangi and Mary Triza
 
-### Assignment dates
-07-20-2020 to 07-25-2020
-
 ### Description
 Introduction to the characteristics, types, and use of binary trees.
 
